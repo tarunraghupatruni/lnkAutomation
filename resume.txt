@@ -1,0 +1,74 @@
+junior qa
+test engineer
+manual testing
+automation testing
+qa testing
+software testing
+
+test case design
+test case execution
+test scenario preparation
+functional testing
+regression testing
+smoke testing
+sanity testing
+integration testing
+system testing
+uat testing
+user acceptance testing
+
+selenium
+selenium webdriver
+automation scripts
+hybrid framework
+testng
+cucumber
+
+java
+javascript
+html5
+css3
+json
+
+api testing
+rest api testing
+postman
+request response validation
+status code validation
+
+defect management
+defect tracking
+bug tracking
+jira
+bugzilla
+bugasura
+
+ui testing
+ux testing
+cross browser testing
+cross device testing
+responsive testing
+
+agile methodology
+scrum
+sdlc
+stlc
+
+maven
+jenkins
+git
+version control
+
+ai assisted testing
+chatgpt for testing
+github copilot
+ai test case generation
+
+healthcare application testing
+hospital management system testing
+e commerce application testing
+payment gateway testing
+booking application testing
+government application testing
+utility application testing
+ai application testing
