@@ -30,8 +30,8 @@ public class Lnkd {
         ======================== */
         driver.get("https://www.linkedin.com/login");
         
-        driver.findElement(By.id("username")).sendKeys("taruntej.2024@gmail.com");
-        driver.findElement(By.id("password")).sendKeys("Sudhasury@123");
+        driver.findElement(By.id("username")).sendKeys("");
+        driver.findElement(By.id("password")).sendKeys("");
         driver.findElement(By.xpath("//*[@id=\"organic-div\"]/form/div[4]/button")).click();
 
         System.out.println("➡ Login manually within 30 seconds...");
